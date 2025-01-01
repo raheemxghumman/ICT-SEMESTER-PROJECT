@@ -38,9 +38,10 @@ nav{
 nav ul#mainNav{
     list-style: none;
     display: flex;
-    gap: 24px;
+    gap: 25px;
     padding: 0;
 }
+
 nav ul#mainNav > li{
     padding-block:40px;
 }
