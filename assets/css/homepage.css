@@ -3,7 +3,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 50vh;
+    height: 60vh;
     background-image: url("/assets/img/homepage-hero-bg-2.jpeg");
     background-size: cover;
 }
